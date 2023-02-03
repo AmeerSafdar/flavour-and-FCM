@@ -24,7 +24,7 @@ class NotificationHelper{
         initializationSettings,
         );
     var androidPlatformChannelSpecifics =  AndroidNotificationDetails(
-        'your channel id', 'your channel name',
+        'your channel id ', 'your channel name ',
         importance: Importance.max,
          priority: Priority.high
          );
