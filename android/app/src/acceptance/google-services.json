@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216527985628",
+    "project_id": "task06-acceptance",
+    "storage_bucket": "task06-acceptance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216527985628:android:fca40dfcb0bd501b1d0d19",
+        "android_client_info": {
+          "package_name": "com.example.task06.acceptance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216527985628-pnpg7fslq67h2mi6ev1g5skfce3l0231.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdKngdLZpBiKPpoK5wmfcLTCmTkMcYgwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216527985628-pnpg7fslq67h2mi6ev1g5skfce3l0231.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
